@@ -1,4 +1,4 @@
-Stratum Pool - 1.0.0 JAMPS Edition
+Stratum Pool - v1.0.0 JAMPS Edition
 ================
 
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue)](https://opensource.org/licenses/GPL-3.0)
