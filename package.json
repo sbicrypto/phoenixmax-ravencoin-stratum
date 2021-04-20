@@ -1,0 +1,68 @@
+{
+  "_from": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git",
+  "_id": "stratum-pool@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/stratum-pool",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git",
+    "rawSpec": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git",
+    "saveSpec": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git",
+    "fetchSpec": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git",
+  "_spec": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git",
+  "_where": "/home/pool/jamps-kawpow-pool",
+  "author": {
+    "name": "Dirty Harry"
+  },
+  "bugs": {
+    "url": "https://github.com/J-A-M-P-S/jamps-stratum-pool/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Olaf Wasilewski"
+    }
+  ],
+  "dependencies": {
+    "async": "*",
+    "base58-native": "*",
+    "big-integer": "^1.6.48",
+    "bignum": "^0.13.1",
+    "bitcoinjs-lib": "git+https://github.com/J-A-M-P-S/bitcoinjs-lib.git",
+    "merkle-bitcoin": "*",
+    "promise": "*",
+    "sha3": "*"
+  },
+  "deprecated": false,
+  "description": "High performance Stratum poolserver in Node.js for KawPoW",
+  "engines": {
+    "node": ">=8.17.0"
+  },
+  "homepage": "https://github.com/J-A-M-P-S/jamps-stratum-pool",
+  "keywords": [
+    "stratum",
+    "mining",
+    "pool",
+    "server",
+    "poolserver",
+    "Ravencoin",
+    "KawPoW"
+  ],
+  "license": "GPL-2.0",
+  "main": "lib/index.js",
+  "name": "stratum-pool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git"
+  },
+  "version": "1.0.0"
+}
