@@ -1,5 +1,5 @@
 {
-  "_from": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git",
+  "_from": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git",
   "_id": "stratum-pool@1.0.0",
   "_inBundle": false,
   "_integrity": "",
@@ -7,24 +7,24 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git",
-    "rawSpec": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git",
-    "saveSpec": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git",
-    "fetchSpec": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git",
+    "raw": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git",
+    "rawSpec": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git",
+    "saveSpec": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git",
+    "fetchSpec": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git",
     "gitCommittish": null
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git",
-  "_spec": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git",
+  "_resolved": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git",
+  "_spec": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git",
   "_where": "/home/pool/jamps-kawpow-pool",
   "author": {
     "name": "Dirty Harry"
   },
   "bugs": {
-    "url": "https://github.com/J-A-M-P-S/jamps-stratum-pool/issues"
+    "url": "https://github.com/J-A-M-P-S/jamps-kawpow-stratum/issues"
   },
   "bundleDependencies": false,
   "contributors": [
@@ -37,7 +37,7 @@
     "base58-native": "*",
     "big-integer": "^1.6.48",
     "bignum": "^0.13.1",
-    "bitcoinjs-lib": "git+https://github.com/J-A-M-P-S/bitcoinjs-lib.git",
+    "bitcoinjs-lib": "git+https://github.com/J-A-M-P-S/jamps-lib.git",
     "merkle-bitcoin": "*",
     "promise": "*",
     "sha3": "*"
@@ -47,7 +47,7 @@
   "engines": {
     "node": ">=8.17.0"
   },
-  "homepage": "https://github.com/J-A-M-P-S/jamps-stratum-pool",
+  "homepage": "https://github.com/J-A-M-P-S/jamps-kawpow-stratum",
   "keywords": [
     "stratum",
     "mining",
@@ -57,12 +57,12 @@
     "Ravencoin",
     "KawPoW"
   ],
-  "license": "GPL-2.0",
+  "license": "GPL-3.0",
   "main": "lib/index.js",
   "name": "stratum-pool",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/J-A-M-P-S/jamps-stratum-pool.git"
+    "url": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git"
   },
   "version": "1.0.0"
 }
