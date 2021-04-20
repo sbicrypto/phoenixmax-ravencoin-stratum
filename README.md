@@ -5,7 +5,7 @@ JAMPS KawPoW Stratum - v1.0.0 Special Edition
 
 Use With NodeJS To Build Your Own KawPoW Algorithm Pool.
 
-Fixed Version Working With cli GetKawPoWHash and GetKawPoWDiff !
+Fixed Version Working With Cli GetKawPoWHash And GetKawPoWDiff !
 
 Fixed NiceHash Compatibility !
 
