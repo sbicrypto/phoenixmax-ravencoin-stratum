@@ -1,5 +1,5 @@
 {
-  "_from": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git",
+  "_from": "git+https://github.com/RavenCommunity/kawpow-stratum-pool.git",
   "_id": "stratum-pool@1.0.0",
   "_inBundle": false,
   "_integrity": "",
@@ -7,24 +7,24 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git",
-    "rawSpec": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git",
-    "saveSpec": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git",
-    "fetchSpec": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git",
+    "raw": "stratum-pool@git+https://github.com/RavenCommunity/kawpow-stratum-pool.git",
+    "rawSpec": "git+https://github.com/RavenCommunity/kawpow-stratum-pool.git",
+    "saveSpec": "git+https://github.com/RavenCommunity/kawpow-stratum-pool.git",
+    "fetchSpec": "git+https://github.com/RavenCommunity/kawpow-stratum-pool.git",
     "gitCommittish": null
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git",
-  "_spec": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git",
-  "_where": "/home/pool/jamps-kawpow-pool",
+  "_resolved": "git+https://github.com/RavenCommunity/kawpow-stratum-pool.git#c66ba109e7de88edc46dd70f36aa9c7cea7d7add",
+  "_spec": "git+https://github.com/RavenCommunity/kawpow-stratum-pool.git",
+  "_where": "/home/pool/phoenixmax-ravencoin-pool",
   "author": {
-    "name": "Dirty Harry"
+    "name": "PhoenixMax"
   },
   "bugs": {
-    "url": "https://github.com/J-A-M-P-S/jamps-kawpow-stratum/issues"
+    "url": "https://github.com/Racing1/phoenixmax-kawpow-stratum/issues"
   },
   "bundleDependencies": false,
   "contributors": [
@@ -37,10 +37,10 @@
     "base58-native": "*",
     "big-integer": "^1.6.48",
     "bignum": "^0.13.1",
-    "bitcoinjs-lib": "git+https://github.com/J-A-M-P-S/bitcoinjs-lib.git",
-    "merkle-bitcoin": "*",
+    "bitcoinjs-lib": "git+https://github.com/bitcoinjs/bitcoinjs-lib.git",
+    "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
     "promise": "*",
-    "sha3": "*"
+    "sha3": "git+https://github.com/phusion/node-sha3.git"
   },
   "deprecated": false,
   "description": "High performance Stratum poolserver in Node.js for KawPoW",
@@ -62,7 +62,7 @@
   "name": "stratum-pool",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/J-A-M-P-S/jamps-kawpow-stratum.git"
+    "url": "git+https://github.com/RavenCommunity/kawpow-stratum-pool.git"
   },
   "version": "1.0.0"
 }
